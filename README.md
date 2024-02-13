@@ -18,7 +18,7 @@ Our primary objective is to identify revenue-generating customers and develop a 
 _<h4>1. Oversampling of Data:</h4>_ We employ oversampling techniques to address the class imbalance in the dataset.
 _<h4>2. Multiple Regression Models:</h4>_ We explore and compare multiple regression models to identify the best-performing model for predicting revenue-generating customers.
 
-<h3>Report and Code:<h3>
+<h3>Report and Code:</h3>
 
 The detailed report for this analysis is available in the file named "Online Shoppers Purchasing Behavior.pdf".
 The code for data analysis and model development is provided in two Python script files: "OnlineShoppersPurchasingBehavior_code_Part1.py" and "OnlineShoppersPurchasingBehavior_code_Part2.py".
